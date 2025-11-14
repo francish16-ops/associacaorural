@@ -1,0 +1,7 @@
+{
+  "name": "Gestão de Associação Rural",
+  "description": "Aplicativo PWA para controle de prestação de serviços com tratores e implementos para uma associação de produtores rurais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

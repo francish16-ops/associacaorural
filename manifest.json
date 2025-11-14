@@ -1,0 +1,25 @@
+{
+  "short_name": "Associação Ubarana",
+  "name": "Gestão de Associação Rural",
+  "description": "Aplicativo PWA para controle de prestação de serviços com tratores e implementos para uma associação de produtores rurais.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fafaf9",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "public/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "public/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
